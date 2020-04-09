@@ -1,5 +1,4 @@
-# gun_violence
-## Gun Violence Analysis
+# Gun Violence Analysis
 In this project we have tried to show the exploratory results of gun violence using a dataset from kaggle. We have added graphical explorations covering some areas like states where violence took place, age of suspects and victims and many more.
 We also tried to do some trend forecasting using some forecasters.
 
