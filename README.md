@@ -5,6 +5,9 @@ We also tried to do some trend forecasting using some forecasters.
 ## Dataset
 Dataset link: https://www.kaggle.com/jameslko/gun-violence-data
 
+## Report
+Latex link: https://www.overleaf.com/project/5e79d1f49cf58c00011cab7e
+
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
